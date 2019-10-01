@@ -1,0 +1,64 @@
+{
+  "_fv": 4,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "CUSTOM:Etherportal"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Portal Igniter",
+    "igniterTab": {
+      "value": "MISC"
+    },
+    "texture": "ether portal igniter",
+    "portalTexture": "ether portal inside",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Etherlandbiome1"
+      },
+      {
+        "value": "CUSTOM:Etherlandbiome2"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Ether"
+    },
+    "secondaryFillerBlock": {
+      "value": "CUSTOM:Ether"
+    },
+    "tertiaryFillerBlock": {
+      "value": "CUSTOM:Ether"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -9273268,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": "CUSTOM:Etherland"
+    },
+    "whenPortalDestroyed": {
+      "name": "EtherlandOnPortalDestroyed"
+    },
+    "onPlayerEntersDimension": {
+      "name": "EtherportalPlayerEntersDimension"
+    }
+  }
+}

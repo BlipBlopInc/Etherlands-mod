@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test:blocks/ether_texture_bottom",
+    "up": "test:blocks/ether_texture",
+    "north": "test:blocks/ether_texture_side",
+    "east": "test:blocks/ether_texture_side",
+    "south": "test:blocks/ether_texture_side",
+    "west": "test:blocks/ether_texture_side",
+    "particle": "test:blocks/ether_texture_bottom"
+  }
+}

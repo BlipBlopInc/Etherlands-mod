@@ -1,0 +1,16 @@
+{
+  "group": "test",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat_seeds"
+    },
+    {
+      "item": "minecraft:wheat_seeds"
+    }
+  ],
+  "result": {
+    "item": "test:etherland",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "test:etherland_portal_ew"
+    },
+    "axis=x": {
+      "model": "test:etherland_portal_ns"
+    },
+    "inventory": {
+      "model": "test:etherland_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+Unsupposrted library path: C:\Users\Games\Documents\Minecraft mods\test\build\classes\java\api
+Unsupposrted library path: C:\Users\Games\Documents\Minecraft mods\test\build\resources\api
+Symbol range map extraction starting
+Processing 15 files
+startProcessing "net/mcreator/test/ClientProxytest.java" md5: a7e622d2f9f35921f1bcad5163d87845
+endProcessing "net/mcreator/test/ClientProxytest.java"
+
+startProcessing "net/mcreator/test/Elementstest.java" md5: 6f4f50859207c2dea38bc4d4f1ddc37c
+endProcessing "net/mcreator/test/Elementstest.java"
+
+startProcessing "net/mcreator/test/IProxytest.java" md5: e89b50244fae5b364c8649978843393d
+endProcessing "net/mcreator/test/IProxytest.java"
+
+startProcessing "net/mcreator/test/MCreatorEther.java" md5: aca8914f4421597023dbaf2e767b449d
+endProcessing "net/mcreator/test/MCreatorEther.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherOnBlockRightClicked.java" md5: f23e16bd12c83f9c259083221cb0f735
+endProcessing "net/mcreator/test/MCreatorEtherOnBlockRightClicked.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherland.java" md5: 2618db241c7ff6dc4cacaa05bfa5fa74
+endProcessing "net/mcreator/test/MCreatorEtherland.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherlandMod.java" md5: 5947800428b5d18bad84ac9824e8cb46
+endProcessing "net/mcreator/test/MCreatorEtherlandMod.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherlandOnPortalDestroyed.java" md5: ce00edfe2805fd53a3923a1dae6887ad
+endProcessing "net/mcreator/test/MCreatorEtherlandOnPortalDestroyed.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherlandbiome1.java" md5: 7f41621a04a4589c62fca10edc3bda8b
+endProcessing "net/mcreator/test/MCreatorEtherlandbiome1.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherlandbiome2.java" md5: 24ca5476a5c7c290cea7d9f1f38a26e9
+endProcessing "net/mcreator/test/MCreatorEtherlandbiome2.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherportal.java" md5: f8001a17327bd3f851f0e8fc60989b02
+endProcessing "net/mcreator/test/MCreatorEtherportal.java"
+
+startProcessing "net/mcreator/test/MCreatorEtherportalPlayerEntersDimension.java" md5: 0e7f36908ed84985565a2dfa443b708f
+endProcessing "net/mcreator/test/MCreatorEtherportalPlayerEntersDimension.java"
+
+startProcessing "net/mcreator/test/ServerProxytest.java" md5: 97681600aa0e81722e66d1d6978a970e
+endProcessing "net/mcreator/test/ServerProxytest.java"
+
+startProcessing "net/mcreator/test/test.java" md5: 559ae1eb912cb66c5c461e7f8d69b5f5
+endProcessing "net/mcreator/test/test.java"
+
+startProcessing "net/mcreator/test/testVariables.java" md5: d55a9b85e6fff5af855f8cd0747cc7f7
+endProcessing "net/mcreator/test/testVariables.java"
+

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test:blocks/ether portal block",
+    "up": "test:blocks/ether portal block",
+    "north": "test:blocks/ether portal block",
+    "east": "test:blocks/ether portal block",
+    "south": "test:blocks/ether portal block",
+    "west": "test:blocks/ether portal block",
+    "particle": "test:blocks/ether portal block"
+  }
+}

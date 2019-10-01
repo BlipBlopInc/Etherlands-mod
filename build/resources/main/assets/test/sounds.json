@@ -1,0 +1,11 @@
+{
+  "Etherland": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "test:etherland_background",
+        "stream": false
+      }
+    ]
+  }
+}
